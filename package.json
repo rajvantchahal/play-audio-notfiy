@@ -1,13 +1,13 @@
 {
   "name": "play-audio-notify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HTML5 Audio Player",
   "main": "index.js",
   "scripts": {
     "test": "fox"
   },
   "dependencies": {
-    "new-chain-notify": "*",
+    "new-chain-notify": "~0.0.1",
     "domify": "~1.0.0"
   },
   "devDependencies": {
